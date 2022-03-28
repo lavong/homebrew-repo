@@ -5,8 +5,6 @@ class CertChecker < Formula
     version "0.0.10"
     sha256 "d2560b0711aeb26165355850eeca309f51503ff8c78d639eda39e60a3c9ab577"
   
-    bottle :unneeded
-  
     depends_on "openjdk"
   
     def install
