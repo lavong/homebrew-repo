@@ -1,9 +1,9 @@
 class CertChecker < Formula
     desc "Tool to display certificate chain infos"
     homepage "https://github.com/lavong/cert-checker"
-    url "https://github.com/lavong/cert-checker/releases/download/0.0.11/cert-checker.zip"
-    version "0.0.11"
-    sha256 "e786e4bbec917012e67062c0c768a04d120fc9100fd399ff3556dc821ad74a7e"
+    url "https://github.com/lavong/cert-checker/releases/download/0.0.12/cert-checker.zip"
+    version "0.0.12"
+    sha256 "9bd92ae32b4e22eabe0a605a6002092f9f38742bc6d748c7ed83d68c08ae5205"
   
     depends_on "openjdk"
   
